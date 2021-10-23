@@ -35,3 +35,4 @@
     2. RNN
         - [RNNDemo](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/RNNForSimpleData.py)
     3. matlab中的几个模型
+        - 见PDF
