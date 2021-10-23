@@ -30,8 +30,8 @@
     - ~~氧化沟ORP~~（1,2号）
 2. 使用的模型
     1. MLPANN
-        - [SimpleDataVice](http://)
-        - [SimpleData](http://)
+        - [SimpleDataVice](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/SimpleDataVice.py)
+        - [SimpleData](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/SimpleData.py)
     2. RNN
-        - [RNNDemo](http://)
+        - [RNNDemo](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/RNNForSimpleData.py)
     3. matlab中的几个模型
