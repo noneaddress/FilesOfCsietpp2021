@@ -1,4 +1,4 @@
-# MyDemoForCsietpp
+#  FilesOfCsietpp
 
 #### 简介
 这是大创项目 **基于人工神经网络的曝气节能降耗系统** 的相关文件。
@@ -35,4 +35,3 @@
     2. RNN
         - [RNNDemo](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/RNNForSimpleData.py)
     3. matlab中的几个模型
-        - 见PDF
