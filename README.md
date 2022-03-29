@@ -7,9 +7,11 @@
 该项目希望建立一个ANN,降低曝气过程中的电能消耗。
 希望能预测下一天的耗电量。
 #### 现状
-论文终于投出去啦！感谢队友们推我当一作！
+**论文终于投出去啦！**感谢队友们推我当一作！
 [论文草稿地址](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/%E6%B0%B4%E6%99%BA%E8%83%BD%E7%A0%94%E8%AE%A8%E4%BC%9A%E8%8D%89%E7%A8%BF.pdf)
-
+部分图片：
+![截图](https://imgtu.com/i/q6QirV)
+![截图](https://imgtu.com/i/q6QcGj)
 1. 使用的模型
     1. MLPANN
         - [SimpleDataVice](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/SimpleDataVice.py)
@@ -22,7 +24,7 @@
             - SVM
         2. nntool拟合的模型
         3. 自带LSTM
-   [树模型与神经网络代码杂烩](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/NoteBook.py)
+    [树模型与神经网络代码杂烩](https://gitee.com/nonaddress/FilesOfCsietpp/blob/master/NoteBook.py)
     4. Xgboost
         效果略差，最终论文使用此模型
     5. LightGBM
